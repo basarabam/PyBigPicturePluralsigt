@@ -1,0 +1,20 @@
+[0m2021.06.22 20:44:26 INFO  Started: Metals version 0.10.4 in workspace 'C:\Users\Milos\OneDrive - Poslovna Agencija Abacus\Dokumenti\Python Scripts\PyBigPicturePluralsigt' for client Visual Studio Code 1.57.1.[0m
+[0m2021.06.22 20:44:28 INFO  time: initialize in 2.04s[0m
+[0m2021.06.22 20:44:29 WARN  Build server is not auto-connectable.[0m
+[0m2021.06.22 20:44:29 WARN  no build tool detected in workspace 'C:\Users\Milos\OneDrive - Poslovna Agencija Abacus\Dokumenti\Python Scripts\PyBigPicturePluralsigt'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.06.22 21:47:24 INFO  shutting down Metals[0m
+[0m2021.06.30 22:59:32 INFO  Started: Metals version 0.10.4 in workspace 'C:\Users\Milos\OneDrive - Poslovna Agencija Abacus\Dokumenti\Python Scripts\PyBigPicturePluralsigt' for client Visual Studio Code 1.57.1.[0m
+[0m2021.06.30 22:59:34 INFO  time: initialize in 2.3s[0m
+[0m2021.06.30 22:59:34 WARN  Build server is not auto-connectable.[0m
+[0m2021.06.30 22:59:34 WARN  no build tool detected in workspace 'C:\Users\Milos\OneDrive - Poslovna Agencija Abacus\Dokumenti\Python Scripts\PyBigPicturePluralsigt'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.01 01:31:20 INFO  shutting down Metals[0m
+[0m2021.07.01 22:14:04 INFO  Started: Metals version 0.10.4 in workspace 'C:\Users\Milos\OneDrive - Poslovna Agencija Abacus\Dokumenti\Python Scripts\PyBigPicturePluralsigt' for client Visual Studio Code 1.57.1.[0m
+[0m2021.07.01 22:14:07 INFO  time: initialize in 3.16s[0m
+[0m2021.07.01 22:14:07 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.01 22:14:07 WARN  no build tool detected in workspace 'C:\Users\Milos\OneDrive - Poslovna Agencija Abacus\Dokumenti\Python Scripts\PyBigPicturePluralsigt'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.02 00:39:45 INFO  shutting down Metals[0m
+[0m2021.07.16 16:14:52 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Milos\OneDrive - Poslovna Agencija Abacus\Dokumenti\Python Scripts\PyBigPicturePluralsigt' for client Visual Studio Code 1.58.1.[0m
+[0m2021.07.16 16:14:53 INFO  time: initialize in 0.77s[0m
+[0m2021.07.16 16:14:54 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.16 16:14:54 WARN  no build tool detected in workspace 'C:\Users\Milos\OneDrive - Poslovna Agencija Abacus\Dokumenti\Python Scripts\PyBigPicturePluralsigt'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.18 19:03:56 INFO  shutting down Metals[0m
